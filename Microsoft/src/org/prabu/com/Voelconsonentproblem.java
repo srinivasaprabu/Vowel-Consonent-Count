@@ -11,13 +11,14 @@ public class Voelconsonentproblem {
 		/*
 		 * I- vowel 1, am- vowel 1, a- vowel 1, king- consonant 1 
 		 * calculation
+		 * (5*no.of.consonant)+(3*no.of.vowels)
 		 * (5*1)+(3*3)=14
 		 */
 		String org1 = "We are human";
-		
+		String org2="Hello";
 		method(org);
 		method(org1);
-		
+
 	}
 
 	public static void method(String org) {
