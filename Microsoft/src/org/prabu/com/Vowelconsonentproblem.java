@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.StringTokenizer;
 
-public class Voelconsonentproblem {
+public class Vowelconsonentproblem {
 
 	public static void main(String[] args) {
 		String org = "I am a king";
