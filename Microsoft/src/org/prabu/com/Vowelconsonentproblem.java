@@ -15,10 +15,10 @@ public class Vowelconsonentproblem {
 		 * (5*1)+(3*3)=14
 		 */
 		String org1 = "We are human";
-		String org2="Hello";
+		
 		method(org);
 		method(org1);
-		method(org2);
+		
 
 	}
 
