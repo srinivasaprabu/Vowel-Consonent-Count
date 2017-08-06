@@ -18,6 +18,7 @@ public class Voelconsonentproblem {
 		String org2="Hello";
 		method(org);
 		method(org1);
+		method(org2);
 
 	}
 
