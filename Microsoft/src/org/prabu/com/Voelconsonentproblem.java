@@ -9,14 +9,15 @@ public class Voelconsonentproblem {
 	public static void main(String[] args) {
 		String org = "I am a king";
 		/*
-		 * I- vowel 1, am- vowel 1, a- vowel 1, king- consonant 1 calculation
+		 * I- vowel 1, am- vowel 1, a- vowel 1, king- consonant 1 
+		 * calculation
 		 * (5*1)+(3*3)=14
 		 */
 		String org1 = "We are human";
-		String org2 = "Difficulty of sentence";
+		
 		method(org);
 		method(org1);
-		method(org2);
+		
 	}
 
 	public static void method(String org) {
